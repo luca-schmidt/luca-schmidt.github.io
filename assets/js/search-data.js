@@ -3,13 +3,20 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-welcome",
+    title: "welcome",
     section: "Navigation",
     handler: () => {
       window.location.href = "/luca-schmidt/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-bio",
+          title: "bio",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/luca-schmidt/bio/";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
@@ -29,13 +36,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/luca-schmidt/teaching/";
-          },
-        },{id: "nav-bio",
-          title: "bio",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/luca-schmidt/bio/";
           },
         },{id: "post-a-post-with-plotly-js",
         
