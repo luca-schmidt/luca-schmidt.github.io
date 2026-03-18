@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/luca-schmidt/publications/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
+        },{id: "nav-contact",
+          title: "contact",
           description: "",
           section: "Navigation",
           handler: () => {
