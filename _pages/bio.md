@@ -4,6 +4,8 @@ permalink: /bio/
 title: bio
 nav: true
 nav_order: 2
+_styles: >
+  .post-title { display: none; }
 ---
 
 ## education
