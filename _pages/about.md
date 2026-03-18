@@ -24,9 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student within the <a href="https://www.mlsustainableenergy.com/">Climate, Energy and Machine Learning Systems</a> and the <a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/start/">Methods of Machine Learning</a> research groups.
-
-I am also part of the <a href="https://imprs.is.mpg.de/">IMPRS International Max Planck Research School for Intelligent Systems</a>. 
+I am a PhD student within the <a href="https://www.mlsustainableenergy.com/">Climate, Energy and Machine Learning Systems</a> and the <a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/start/">Methods of Machine Learning</a> research groups. I am also part of the <a href="https://imprs.is.mpg.de/">IMPRS International Max Planck Research School for Intelligent Systems</a>. 
 
 My research is at the intersection of Machine Learning and Climate Science — in particular, I apply generative machine learning methods such as diffusion models to perform statistical downscaling. 
 
