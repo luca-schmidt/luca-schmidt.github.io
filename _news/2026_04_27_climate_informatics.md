@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll be at **Climate Informatics** in Lausanne!
+I'll be at Climate Informatics in Lausanne!
