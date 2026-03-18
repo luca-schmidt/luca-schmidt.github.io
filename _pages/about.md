@@ -30,6 +30,7 @@ I am also part of the <a href="https://imprs.is.mpg.de/">IMPRS International Max
 
 My research is at the intersection of Machine Learning and Climate Science — in particular, I apply generative machine learning methods such as diffusion models to perform statistical downscaling. 
 
-From May to October 2025, I visited <a href="https://mila.quebec/">Mila</a> in Montreal, Canada.
+From May to October 2025, I visited <a href="https://mila.quebec/">Mila - Quebec Artificial Intelligence Institute
+</a> in Montréal, Canada.
 
 Feel free to reach out in English or German if you are interested in climate modeling or related topics.
