@@ -16,12 +16,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/luca-schmidt/publications/";
           },
+        },{id: "nav-news",
+          title: "news",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/luca-schmidt/news/";
+          },
         },{id: "nav-contact",
           title: "contact",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/luca-schmidt/teaching/";
+          },
+        },{id: "nav-bio",
+          title: "bio",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/luca-schmidt/bio/";
           },
         },{id: "post-a-post-with-plotly-js",
         
