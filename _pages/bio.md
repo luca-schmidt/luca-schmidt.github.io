@@ -10,6 +10,8 @@ _styles: >
 
 ## education
 
+<br>
+
 #### PhD Candidate, 2023–2026
 *University of Tübingen & IMPRS-IS*
 
