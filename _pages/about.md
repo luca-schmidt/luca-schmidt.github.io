@@ -26,9 +26,9 @@ latest_posts:
 
 I am a PhD student in the <a href="https://www.mlsustainableenergy.com/">Climate, Energy and Machine Learning Systems</a> and the <a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/start/">Methods of Machine Learning</a> research groups. I am also part of the <a href="https://imprs.is.mpg.de/"> International Max Planck Research School for Intelligent Systems (IMPRS)</a>. 
 
-My research lies at the intersection of Machine Learning and Climate Science. In particular, I work with generative machine learning methods, such as diffusion models, for statistical downscaling and related climate modeling tasks. In my research, I am interested in analyzing the impacts of climate change on, for example wind power.
+My research lies at the intersection of Machine Learning and Climate Science. More recently, I have also become increasingly interested in bridging the gap between these two fields. I analyze outputs of climate and weather models to better understand the local impacts of climate change and to make this information more useful for decision-making. To this end, I work with generative machine learning methods, like diffusion models, for statistical downscaling and related climate modeling tasks. Furthermore, I am particularly interested in downstream applications such as wind power forecasting.
 
-From May to October 2025, I was a visiting researcher at <a href="https://mila.quebec/">Mila - Quebec Artificial Intelligence Institute
-</a> in Montréal, Canada, where I joined Rolnick Lab.
+From May to October 2025, I joined Rolnick Lab as a visiting researcher at <a href="https://mila.quebec/">Mila - Quebec Artificial Intelligence Institute
+</a> in Montréal, Canada.
 
-Feel free to reach out in English or German if you are interested in climate modeling, machine learning for climate applications, or related topics.
+Feel free to reach out in English or German if you are interested in any of these topics or in related research areas!
