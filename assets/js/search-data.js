@@ -408,7 +408,7 @@ ninja.data = [{
             },},{id: "news-our-paper-benchmarking-the-geographic-generalization-of-deep-learning-models-for-precipitation-downscaling-got-published-in-scientific-reports",
           title: 'Our paper Benchmarking the geographic generalization of deep learning models for precipitation downscaling...',
           description: "",
-          section: "News",},{id: "news-ml-emulators-have-the-potential-to-overcome-the-high-computational-costs-of-climate-models-yet-their-effective-use-remains-challenging-in-our-new-arxiv-preprint-ongoing-work-we-reflect-on-how-to-bridge-this-gap-if-you-are-working-in-this-area-we-would-be-very-happy-to-connect-and-exchange-ideas-we-will-also-be-at-egu-in-vienna-and-climate-informatics-in-lausanne",
+          section: "News",},{id: "news-ml-emulators-have-the-potential-to-overcome-the-high-computational-costs-of-climate-models-yet-their-effective-use-remains-challenging-in-our-new-preprint-on-arxiv-ongoing-work-we-reflect-on-how-to-bridge-this-gap-if-you-are-working-in-one-or-both-of-these-fields-we-would-be-very-happy-to-connect-and-exchange-ideas-we-will-also-be-at-egu-in-vienna-and-climate-informatics-in-lausanne",
           title: 'ML emulators have the potential to overcome the high computational costs of climate...',
           description: "",
           section: "News",},{id: "news-i-ll-be-at-climate-informatics-in-lausanne-i-d-be-happy-to-discuss-how-to-make-climate-model-emulators-more-useful-for-applied-researchers",
