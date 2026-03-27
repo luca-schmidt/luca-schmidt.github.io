@@ -31,4 +31,4 @@ My research lies at the intersection of **Machine Learning** and **Climate Scien
 From May to October 2025, I joined Rolnick Lab as a visiting researcher at <a href="https://mila.quebec/">Mila - Quebec Artificial Intelligence Institute
 </a> in Montréal, Canada.
 
-I am always happy to connect for interdisciplinary collaboration, entrepreneurship, or any other topic at the intersection of climate science, AI, or renewable energy systems — please feel free to get in touch to discuss!
+Feel free to reach out if you are interested in any of these or related topics!
