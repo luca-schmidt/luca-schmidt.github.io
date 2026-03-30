@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-ML emulators can reduce the high computational costs of climate models, but using them effectively remains challenging. In our new <a href="https://arxiv.org/abs/2603.22320">arXiv preprint</a>, we explore how to bridge the gap between ML and climate science. If you work in either field, we’d be happy to connect. We’ll also be at EGU in Vienna and Climate Informatics in Lausanne.
+ML emulators can reduce the high computational costs of climate models, but using them effectively remains challenging. In our new <a href="https://arxiv.org/abs/2603.22320">arXiv preprint</a>, we explore how to bridge the gap between ML and climate science. If you work in either field, we’d be happy to connect. 
 
