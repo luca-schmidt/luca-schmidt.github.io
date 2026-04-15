@@ -26,7 +26,7 @@ latest_posts:
 
 I am a final-year PhD student in the <a href="https://www.mlsustainableenergy.com/">Climate, Energy and Machine Learning Systems</a> and the <a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/start/">Methods of Machine Learning</a> research groups at <a href='https://uni-tuebingen.de'>University of Tübingen</a>. I am also part of the <a href="https://imprs.is.mpg.de/"> International Max Planck Research School for Intelligent Systems (IMPRS)</a>. 
 
-My research lies at the intersection of **Machine Learning** and **Climate Science**. I analyze climate and weather models to better understand local climate change impacts and support decision-making. On the methodological side, I work with generative machine learning methods, such as diffusion models, for statistical downscaling and related climate modeling tasks. Furthermore, I am particularly interested in downstream applications such as wind power forecasting.
+My research lies at the intersection of **Machine Learning** and **Climate Science**. I analyze climate and weather models to better understand local climate change impacts and support decision-making. On the methodological side, I work with generative ML methods, e.g., diffusion models, for statistical downscaling and related climate modeling tasks. Furthermore, I am particularly interested in downstream applications such as wind power forecasting.
 
 From May to October 2025, I joined Rolnick Lab as a visiting researcher at <a href="https://mila.quebec/">Mila - Quebec Artificial Intelligence Institute
 </a> in Montréal, Canada.
